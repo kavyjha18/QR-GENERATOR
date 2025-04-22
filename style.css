@@ -1,0 +1,19 @@
+body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: rgb(194, 192, 255);
+        }
+
+        #qr-code-container {
+            text-align: center;
+            background-color: white;
+            padding: 40px;
+            border-radius: 30px;
+        }
+
+        #qr-code {
+            margin: 20px;
+        }
